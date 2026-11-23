@@ -1,3 +1,7 @@
+// Strategy: sell fast, cheap SEO writing on Fiverr; spend the starting
+// $100 on promotion ($30) + a portfolio site ($20), reply and deliver in
+// under an hour, and reinvest every sale into more promotion to reach
+// 10 orders ($500) by day 30.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const plan =
